@@ -1,2 +1,3 @@
-# ⚙️ MiMo DevOps Autopilot
-*Automated incident resolution.* [Full architecture diagram...]
+# MIMO-DEVOPS-AUTOPILOT
+
+Full application code for the MiMo grant project.
